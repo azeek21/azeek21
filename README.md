@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz Askaraliev (call me Azeek 🤓)</h1>
-<h3 align="center">20 years old tech lover, from Uzbekistan. Student at specialized programming School 21 in Kazan.</h3>
+<h3 align="center">20 years old tech lover, from Uzbekistan. Student at specialized programming School 21 in Kazan, Russia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeek21&label=Profile%20views&color=0e75b6&style=flat" alt="azeek21" /> </p>
 
