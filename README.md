@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **C++, basic and advanced OOP.**
 
-- 📫 How to reach me at ->**pymanuz@gmail.com**
+- 📫 You can reach me at ->**pymanuz@gmail.com**
 
-- ⚡ Fun fact **I love watching Dr.House**
+- ⚡ **I love watching Dr.House**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
