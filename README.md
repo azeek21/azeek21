@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz Askaraliev (call me Azeek 🤓)</h1>
-<h3 align="center">20 years old tech lover, from Uzbekistan. Student at specialized programming School 21 in Kazan, Russia.</h3>
+<h3 align="center">22 years old tech lover, from Uzbekistan. Student at specialized programming School 21 in Kazan, Russia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeek21&label=Profile%20views&color=0e75b6&style=flat" alt="azeek21" /> </p>
 
-- 🌱 I’m currently learning **C++, basic and advanced OOP.**
+- 🌱 I’m currently working on **ReactJs, TypeScript, expressJs**
 
-- 📫 You can reach me at ->**pymanuz@gmail.com**
+- 📫 You can reach me at ->**askaraliev0516@gmail.com**
 
-- ⚡ **I love watching Dr.House**
+- ⚡ **Love playing ping pong and watching Dr.House**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
