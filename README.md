@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently working on **ReactJs, TypeScript, NextJs**
 
+- ❄️ Goals: Finish NextJs, learn mobx, learn DRF, make a full stack project.
+
+
 - ⚡ **Love playing ping pong and watching Dr.House**
 
 <h3 align="left">Connect with me:</h3>
