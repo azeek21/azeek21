@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeek21&label=Profile%20views&color=0e75b6&style=flat" alt="azeek21" /> </p>
 
-- 🌱 I’m currently working on **ReactJs, TypeScript, expressJs**
-
-- 📫 You can reach me at ->**askaraliev0516@gmail.com**
+- 🌱 I’m currently working on **ReactJs, TypeScript, NextJs**
 
 - ⚡ **Love playing ping pong and watching Dr.House**
 
