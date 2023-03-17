@@ -4,8 +4,7 @@
 <meta name="description" content="abdulaziz" /> 
 <meta name="description" content="Askaraliev" /> 
 <meta name="description" content="azeek" /> 
-<meta name="description" content="azeek21" /> 
-<title> Abdulaziz Askaraliev Azeek Azeek21 GitHub </title>
+<meta name="description" content="azeek21" />
 </head>
 <h1 align="center">Hi 👋, I'm Abdulaziz Askaraliev ( Azeek 🤓)</h1>
 <h3 align="center">21 years old tech lover, from Uzbekistan. Student at specialized programming School 21 in Kazan, Russia.</h3>
