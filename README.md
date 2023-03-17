@@ -1,9 +1,13 @@
 <head>
 <meta name="google-site-verification" content="7c8j__FQfplk2UnvIn9IdN2Uo6pmEHyJl--61E-Gyhg" />
-<meta name="abdulaziz askaraliev" content="abdulaziz askaraliev" />
-<meta name="abdulaziz" content="abdulaziz" /> 
+<meta name="description" content="abdulaziz askaraliev Abdulaziz Asqaraliyev GitHub" />
+<meta name="description" content="abdulaziz" /> 
+<meta name="description" content="Askaraliev" /> 
+<meta name="description" content="azeek" /> 
+<meta name="description" content="azeek21" /> 
+<title> Abdulaziz Askaraliev Azeek Azeek21 GitHub </title>
 </head>
-<h1 align="center">Hi 👋, I'm Abdulaziz Askaraliev (call me Azeek 🤓)</h1>
+<h1 align="center">Hi 👋, I'm Abdulaziz Askaraliev ( Azeek 🤓)</h1>
 <h3 align="center">21 years old tech lover, from Uzbekistan. Student at specialized programming School 21 in Kazan, Russia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeek21&label=Profile%20views&color=0e75b6&style=flat" alt="azeek21" /> </p>
