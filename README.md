@@ -1,3 +1,8 @@
+<head>
+<meta name="google-site-verification" content="7c8j__FQfplk2UnvIn9IdN2Uo6pmEHyJl--61E-Gyhg" />
+<meta name="abdulaziz askaraliev" content="abdulaziz askaraliev" />
+<meta name="abdulaziz" content="abdulaziz" /> 
+</head>
 <h1 align="center">Hi 👋, I'm Abdulaziz Askaraliev (call me Azeek 🤓)</h1>
 <h3 align="center">21 years old tech lover, from Uzbekistan. Student at specialized programming School 21 in Kazan, Russia.</h3>
 
