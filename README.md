@@ -1,10 +1,18 @@
 <head>
-<meta name="google-site-verification" content="7c8j__FQfplk2UnvIn9IdN2Uo6pmEHyJl--61E-Gyhg" />
 <meta name="description" content="abdulaziz askaraliev Abdulaziz Asqaraliyev GitHub" />
 <meta name="description" content="abdulaziz" /> 
 <meta name="description" content="Askaraliev" /> 
 <meta name="description" content="azeek" /> 
 <meta name="description" content="azeek21" />
+<meta name="description" content="malton" />
+<meta name="description" content="Meabuck Alton" />
+<meta name="description" content="azeek github" />
+<meta name="description" content="abdulaziz github" /> 
+<meta name="description" content="Askaraliev github" /> 
+<meta name="description" content="azeek github" /> 
+<meta name="description" content="azeek21 github" />
+<meta name="description" content="malton github" />
+<meta name="description" content="abdulaziz askaraliev github" /> 
 </head>
 <h1 align="center">Hi 👋, I'm Abdulaziz Askaraliev ( Azeek 🤓)</h1>
 <h3 align="center">21 years old tech lover, from Uzbekistan. Student at specialized programming School 21 in Kazan, Russia.</h3>
