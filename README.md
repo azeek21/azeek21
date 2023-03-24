@@ -43,4 +43,6 @@ https://user-images.githubusercontent.com/91887882/227597222-aecb3981-333d-4b5b-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azeek21&show_icons=true&locale=en" alt="azeek21" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azeek21&" alt="azeek21" /></p> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=azeek21&theme=transparent&border_radius=15&currStreakLabel=EB8801)](https://git.io/streak-stats)  ![Azeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=azeek21&show_icons=true&theme=transparent?border_radius=15) <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=azeek21&show_icons=true&theme=onedark&locale=en&layout=compact" alt="azeek21" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=azeek21&theme=transparent&border_radius=15&currStreakLabel=EB8801)](https://git.io/streak-stats)  ![Azeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=azeek21&show_icons=true&border_radius=15&theme=transparent)
+
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azeek21&show_icons=true&theme=onedark&locale=en&layout=compact" alt="azeek21" /></p>
