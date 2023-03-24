@@ -31,9 +31,8 @@
 
 
 <h3 align="left"> "If it ain't broke, don't fix it" ~ NF </h3>
- [![Motto by NF](https://img.youtube.com/vi/0YKOxtOb44c/0.jpg)](https://www.youtube.com/watch?v=0YKOxtOb44c)]
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/0YKOxtOb44c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- -->
+[![Test](http://img.youtube.com/vi/0YKOxtOb44c/0.jpg)](http://www.youtube.com/watch?v=0YKOxtOb44c "Mott by NF")
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azeek21&show_icons=true&locale=en&layout=compact" alt="azeek21" /></p>
 
