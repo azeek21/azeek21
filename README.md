@@ -24,6 +24,8 @@
 - ❄️ Goals: Finish NextJs, learn mobx, learn DRF, make a full stack project.
 
 
+
+
 - ⚡ **Love playing ping pong and watching Dr.House**
 
 <h3 align="left">Connect with me:</h3>
@@ -31,7 +33,9 @@
 
 
 <h3 align="left"> "If it ain't broke, don't fix it" ~ NF </h3>
-<p><img align="left" src="https://www.youtube.com/watch?v=0YKOxtOb44c" alt="NF - MOTTO"/></p>
+
+https://user-images.githubusercontent.com/91887882/227597222-aecb3981-333d-4b5b-ab70-587c53ec9b0d.mp4
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azeek21&show_icons=true&locale=en&layout=compact" alt="azeek21" /></p>
