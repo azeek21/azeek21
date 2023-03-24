@@ -44,3 +44,4 @@ https://user-images.githubusercontent.com/91887882/227597222-aecb3981-333d-4b5b-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azeek21&" alt="azeek21" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=azeek21&theme=transparent&border_radius=15&currStreakLabel=EB8801)](https://git.io/streak-stats)
