@@ -34,14 +34,11 @@ E-mail: <a href="mailto:askaraliev0516@gmail.com"> askaraliev0516@gmail.com </a>
 
 <h3 align="center"> 🎵 "If it ain't broke, don't fix it" - That's my motto. ~ NF 🎵 </h3>
 
-https://user-images.githubusercontent.com/91887882/227597222-aecb3981-333d-4b5b-ab70-587c53ec9b0d.mp4 
+https://user-images.githubusercontent.com/91887882/227610235-fda6f905-fa87-4532-a77c-3d43a7308f57.mp4
+
 
 --------------------------
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=azeek21&theme=transparent&card_width=300&width=300&border_radius=15&currStreakLabel=EB8801)](https://git.io/streak-stats)
-
-
-![Azeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=azeek21&show_icons=true&border_radius=15&include_all_commits=true&theme=transparent&card_width=300)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=azeek21&theme=transparent&card_width=300&width=300&border_radius=15&currStreakLabel=EB8801)](https://git.io/streak-stats) ![Azeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=azeek21&show_icons=true&border_radius=15&include_all_commits=true&theme=transparent&card_width=300)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azeek21&show_icons=true&theme=transparent&border_radius=15&locale=en&layout=compact&card_width=300" alt="azeek21" />
