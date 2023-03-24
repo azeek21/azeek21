@@ -38,10 +38,10 @@ https://user-images.githubusercontent.com/91887882/227597222-aecb3981-333d-4b5b-
 
 --------------------------
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=azeek21&theme=transparent&card_width=300&width=300&border_radius=15&currStreakLabel=EB8801)](https://git.io/streak-stats) <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azeek21&show_icons=true&theme=transparent&border_radius=15&locale=en&layout=compact&card_width=300" alt="azeek21" />
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=azeek21&theme=transparent&card_width=300&width=300&border_radius=15&currStreakLabel=EB8801)](https://git.io/streak-stats)
 
 
 ![Azeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=azeek21&show_icons=true&border_radius=15&include_all_commits=true&theme=transparent&card_width=300)
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azeek21&show_icons=true&theme=transparent&border_radius=15&locale=en&layout=compact&card_width=300" alt="azeek21" />
