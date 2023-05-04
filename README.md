@@ -19,10 +19,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azeek21&label=Profile%20views&color=0e75b6&style=flat" alt="azeek21" /> </p>
 
-- 🌱 I’m currently working on **ReactJs, TypeScript, NextJs**
-- ❄️ Goals: Make something cool :)
-- ⚡ **Love playing ping pong**
-
 
 <h3 align="left">Connect with me:</h3>
 <b>
@@ -30,12 +26,6 @@ Telegram:<a href="https://t.me/foffnow" target="_blank"> @foffnow </a>
 <br/>
 E-mail: <a href="mailto:askaraliev0516@gmail.com"> askaraliev0516@gmail.com </a>
 </b>
-
-
-<h3 align="center"> 🎵 "If it ain't broke, don't fix it" - That's my motto. ~ NF 🎵 </h3>
-
-https://user-images.githubusercontent.com/91887882/227610235-fda6f905-fa87-4532-a77c-3d43a7308f57.mp4
-
 
 --------------------------
 
