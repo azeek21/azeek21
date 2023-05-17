@@ -14,12 +14,11 @@
 <meta name="description" content="malton github" />
 <meta name="description" content="abdulaziz askaraliev github" /> 
 </head>
-<h1 align="center">Hi 👋, I'm Abdulaziz Askaraliev ( Azeek 🤓 )</h1>
-<h3 align="center">21 years old tech lover, from Uzbekistan. Student at specialized programming School 21 in Kazan, Russia.</h3>
+<h1 align="center">I'm Abdulaziz Askaraliev ( a.k.a Azeek )</h1>
+<h3 align="center">21 years old tech lover, from Uzbekistan. Student at Specialized Programming School 21 by Sber in Kazan, Russia.</h3>
 
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact: </h3>
 <b>
 Telegram:<a href="https://t.me/foffnow" target="_blank"> @foffnow </a>
 <br/>
