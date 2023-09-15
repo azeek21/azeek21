@@ -15,7 +15,7 @@
 <meta name="description" content="abdulaziz askaraliev github" /> 
 </head>
 <h1 align="center">I'm Abdulaziz Askaraliev ( a.k.a Azeek )</h1>
-<h3 align="center">21 years old tech lover, from Uzbekistan. Student at Specialized Programming School 21 by Sber in Kazan, Russia.</h3>
+<h3 align="center">21 years old tech lover, from Uzbekistan. JavaScript developer at Sber, Moscow</h3>
 
 
 <h3 align="left">Contact: </h3>
