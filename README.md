@@ -27,6 +27,4 @@ E-mail: <a href="mailto:askaraliev0516@gmail.com"> askaraliev0516@gmail.com </a>
 
 --------------------------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azeek21&label=Profile%20views&color=0e75b6&style=flat" alt="azeek21" />  </p>
-
 <p align="left" > <img align="left" src="https://www.codewars.com/users/azeek/badges/large" alt="azeek21 codewars badge" /> </p>
