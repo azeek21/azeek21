@@ -22,4 +22,3 @@ Telegram:<a href="https://t.me/foffnow" target="_blank"> @foffnow </a>
 <br/>
 E-mail: <a href="mailto:askaraliev0516@gmail.com"> askaraliev0516@gmail.com </a>
 </b>
---------------------------
