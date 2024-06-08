@@ -8,4 +8,6 @@
 Telegram:<a href="https://t.me/foffnow" target="_blank"> @foffnow </a>
 <br/>
 E-mail: <a href="mailto:askaraliev0516@gmail.com"> askaraliev0516@gmail.com </a>
+<br />
+Website: <a href="https://askaraliev.uz"> Askaraliev.uz </a>
 </b>
