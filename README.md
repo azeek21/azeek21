@@ -11,3 +11,4 @@ E-mail: <a href="mailto:askaraliev0516@gmail.com"> askaraliev0516@gmail.com </a>
 <br />
 Website: <a href="https://askaraliev.uz"> Askaraliev.uz </a>
 </b>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeek21)](https://github.com/anuraghazra/github-readme-stats)
